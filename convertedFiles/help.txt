@@ -1,0 +1,2 @@
+1- here (in ./convertedFiles )you will find the converted files (PDF files)
+2- you need to create a directory named "./uploads" in order to save uploaded files (as a cache) and then the web application will automaticly delete caches
